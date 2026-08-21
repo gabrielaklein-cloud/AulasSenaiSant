@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#negrito {
+    font-weight: bold;
+}
+
+#italico {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}

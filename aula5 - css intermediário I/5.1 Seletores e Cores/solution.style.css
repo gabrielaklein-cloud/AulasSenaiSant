@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: darkgray;
+}
+.destaque {
+    color:rgb(255, 0, 0);
+}
+
+#principal {
+    background-color: #d2691e;
+}
